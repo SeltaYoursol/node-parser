@@ -14,5 +14,11 @@
   "author": "Tapio",
   "license": "ISC",
   "homepage": "https://bitbucket.org/Tapio_O/avito_parser#readme",
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^10.0.0"
+  }
 }
